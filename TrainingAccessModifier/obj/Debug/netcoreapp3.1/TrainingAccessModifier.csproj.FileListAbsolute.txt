@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\TrainingAccessModifier\bin\Debug\netcoreapp3.1\TrainingAccessModifier.exe
+C:\Lab Formulatrix\TrainingAccessModifier\bin\Debug\netcoreapp3.1\TrainingAccessModifier.deps.json
+C:\Lab Formulatrix\TrainingAccessModifier\bin\Debug\netcoreapp3.1\TrainingAccessModifier.runtimeconfig.json
+C:\Lab Formulatrix\TrainingAccessModifier\bin\Debug\netcoreapp3.1\TrainingAccessModifier.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingAccessModifier\bin\Debug\netcoreapp3.1\TrainingAccessModifier.dll
+C:\Lab Formulatrix\TrainingAccessModifier\bin\Debug\netcoreapp3.1\TrainingAccessModifier.pdb
+C:\Lab Formulatrix\TrainingAccessModifier\obj\Debug\netcoreapp3.1\TrainingAccessModifier.csprojAssemblyReference.cache
+C:\Lab Formulatrix\TrainingAccessModifier\obj\Debug\netcoreapp3.1\TrainingAccessModifier.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingAccessModifier\obj\Debug\netcoreapp3.1\TrainingAccessModifier.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingAccessModifier\obj\Debug\netcoreapp3.1\TrainingAccessModifier.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingAccessModifier\obj\Debug\netcoreapp3.1\TrainingAccessModifier.dll
+C:\Lab Formulatrix\TrainingAccessModifier\obj\Debug\netcoreapp3.1\TrainingAccessModifier.pdb
+C:\Lab Formulatrix\TrainingAccessModifier\obj\Debug\netcoreapp3.1\TrainingAccessModifier.genruntimeconfig.cache
