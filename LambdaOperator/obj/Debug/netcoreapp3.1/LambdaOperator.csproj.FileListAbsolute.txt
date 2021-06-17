@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\LambdaOperator\bin\Debug\netcoreapp3.1\LambdaOperator.exe
+C:\Lab Formulatrix\LambdaOperator\bin\Debug\netcoreapp3.1\LambdaOperator.deps.json
+C:\Lab Formulatrix\LambdaOperator\bin\Debug\netcoreapp3.1\LambdaOperator.runtimeconfig.json
+C:\Lab Formulatrix\LambdaOperator\bin\Debug\netcoreapp3.1\LambdaOperator.runtimeconfig.dev.json
+C:\Lab Formulatrix\LambdaOperator\bin\Debug\netcoreapp3.1\LambdaOperator.dll
+C:\Lab Formulatrix\LambdaOperator\bin\Debug\netcoreapp3.1\LambdaOperator.pdb
+C:\Lab Formulatrix\LambdaOperator\obj\Debug\netcoreapp3.1\LambdaOperator.csprojAssemblyReference.cache
+C:\Lab Formulatrix\LambdaOperator\obj\Debug\netcoreapp3.1\LambdaOperator.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\LambdaOperator\obj\Debug\netcoreapp3.1\LambdaOperator.AssemblyInfo.cs
+C:\Lab Formulatrix\LambdaOperator\obj\Debug\netcoreapp3.1\LambdaOperator.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\LambdaOperator\obj\Debug\netcoreapp3.1\LambdaOperator.dll
+C:\Lab Formulatrix\LambdaOperator\obj\Debug\netcoreapp3.1\LambdaOperator.pdb
+C:\Lab Formulatrix\LambdaOperator\obj\Debug\netcoreapp3.1\LambdaOperator.genruntimeconfig.cache

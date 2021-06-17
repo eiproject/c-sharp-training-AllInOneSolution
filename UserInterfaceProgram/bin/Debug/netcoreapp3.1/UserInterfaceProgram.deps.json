@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UserInterfaceProgram/1.0.0": {
+        "dependencies": {
+          "FieldsTraining": "1.0.0",
+          "Inheritance": "1.0.0",
+          "LambdaOperator": "1.0.0",
+          "StockMarket": "1.0.0",
+          "TrainingAccessModifier": "1.0.0"
+        },
+        "runtime": {
+          "UserInterfaceProgram.dll": {}
+        }
+      },
+      "FieldsTraining/1.0.0": {
+        "runtime": {
+          "FieldsTraining.dll": {}
+        }
+      },
+      "Inheritance/1.0.0": {
+        "runtime": {
+          "Inheritance.dll": {}
+        }
+      },
+      "LambdaOperator/1.0.0": {
+        "runtime": {
+          "LambdaOperator.dll": {}
+        }
+      },
+      "StockMarket/1.0.0": {
+        "runtime": {
+          "StockMarket.dll": {}
+        }
+      },
+      "TrainingAccessModifier/1.0.0": {
+        "runtime": {
+          "TrainingAccessModifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserInterfaceProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FieldsTraining/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LambdaOperator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockMarket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrainingAccessModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

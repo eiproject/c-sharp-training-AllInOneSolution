@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\NuillExpressionTest\obj\Debug\netcoreapp3.1\NuillExpressionTest.csprojAssemblyReference.cache
+C:\Lab Formulatrix\NuillExpressionTest\obj\Debug\netcoreapp3.1\NuillExpressionTest.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\NuillExpressionTest\obj\Debug\netcoreapp3.1\NuillExpressionTest.AssemblyInfo.cs
+C:\Lab Formulatrix\NuillExpressionTest\obj\Debug\netcoreapp3.1\NuillExpressionTest.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\NuillExpressionTest\bin\Debug\netcoreapp3.1\NuillExpressionTest.exe
+C:\Lab Formulatrix\NuillExpressionTest\bin\Debug\netcoreapp3.1\NuillExpressionTest.deps.json
+C:\Lab Formulatrix\NuillExpressionTest\bin\Debug\netcoreapp3.1\NuillExpressionTest.runtimeconfig.json
+C:\Lab Formulatrix\NuillExpressionTest\bin\Debug\netcoreapp3.1\NuillExpressionTest.runtimeconfig.dev.json
+C:\Lab Formulatrix\NuillExpressionTest\bin\Debug\netcoreapp3.1\NuillExpressionTest.dll
+C:\Lab Formulatrix\NuillExpressionTest\bin\Debug\netcoreapp3.1\NuillExpressionTest.pdb
+C:\Lab Formulatrix\NuillExpressionTest\obj\Debug\netcoreapp3.1\NuillExpressionTest.dll
+C:\Lab Formulatrix\NuillExpressionTest\obj\Debug\netcoreapp3.1\NuillExpressionTest.pdb
+C:\Lab Formulatrix\NuillExpressionTest\obj\Debug\netcoreapp3.1\NuillExpressionTest.genruntimeconfig.cache

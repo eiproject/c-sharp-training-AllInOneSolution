@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FieldsTraining/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/FieldsTraining.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FieldsTraining.dll": {}
+        }
+      },
+      "Inheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Inheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inheritance.dll": {}
+        }
+      },
+      "LambdaOperator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LambdaOperator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LambdaOperator.dll": {}
+        }
+      },
+      "StockMarket/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StockMarket.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StockMarket.dll": {}
+        }
+      },
+      "TrainingAccessModifier/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TrainingAccessModifier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrainingAccessModifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FieldsTraining/1.0.0": {
+      "type": "project",
+      "path": "../FieldsTraining/FieldsTraining.csproj",
+      "msbuildProject": "../FieldsTraining/FieldsTraining.csproj"
+    },
+    "Inheritance/1.0.0": {
+      "type": "project",
+      "path": "../ThisReferenceTest/Inheritance.csproj",
+      "msbuildProject": "../ThisReferenceTest/Inheritance.csproj"
+    },
+    "LambdaOperator/1.0.0": {
+      "type": "project",
+      "path": "../LambdaOperator/LambdaOperator.csproj",
+      "msbuildProject": "../LambdaOperator/LambdaOperator.csproj"
+    },
+    "StockMarket/1.0.0": {
+      "type": "project",
+      "path": "../StockMarket/StockMarket.csproj",
+      "msbuildProject": "../StockMarket/StockMarket.csproj"
+    },
+    "TrainingAccessModifier/1.0.0": {
+      "type": "project",
+      "path": "../TrainingAccessModifier/TrainingAccessModifier.csproj",
+      "msbuildProject": "../TrainingAccessModifier/TrainingAccessModifier.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "FieldsTraining >= 1.0.0",
+      "Inheritance >= 1.0.0",
+      "LambdaOperator >= 1.0.0",
+      "StockMarket >= 1.0.0",
+      "TrainingAccessModifier >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kosma\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Lab Formulatrix\\TrainingSolution_1\\UserInterfaceProgram\\UserInterfaceProgram.csproj",
+      "projectName": "UserInterfaceProgram",
+      "projectPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\UserInterfaceProgram\\UserInterfaceProgram.csproj",
+      "packagesPath": "C:\\Users\\kosma\\.nuget\\packages\\",
+      "outputPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\UserInterfaceProgram\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kosma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Lab Formulatrix\\TrainingSolution_1\\FieldsTraining\\FieldsTraining.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\FieldsTraining\\FieldsTraining.csproj"
+            },
+            "C:\\Lab Formulatrix\\TrainingSolution_1\\LambdaOperator\\LambdaOperator.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\LambdaOperator\\LambdaOperator.csproj"
+            },
+            "C:\\Lab Formulatrix\\TrainingSolution_1\\StockMarket\\StockMarket.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\StockMarket\\StockMarket.csproj"
+            },
+            "C:\\Lab Formulatrix\\TrainingSolution_1\\ThisReferenceTest\\Inheritance.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\ThisReferenceTest\\Inheritance.csproj"
+            },
+            "C:\\Lab Formulatrix\\TrainingSolution_1\\TrainingAccessModifier\\TrainingAccessModifier.csproj": {
+              "projectPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\TrainingAccessModifier\\TrainingAccessModifier.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

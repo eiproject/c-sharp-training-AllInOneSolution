@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\ThisReferenceTest\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Lab Formulatrix\ThisReferenceTest\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Lab Formulatrix\ThisReferenceTest\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Lab Formulatrix\ThisReferenceTest\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Lab Formulatrix\ThisReferenceTest\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Lab Formulatrix\ThisReferenceTest\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Lab Formulatrix\ThisReferenceTest\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+C:\Lab Formulatrix\ThisReferenceTest\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\ThisReferenceTest\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Lab Formulatrix\ThisReferenceTest\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\ThisReferenceTest\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Lab Formulatrix\ThisReferenceTest\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Lab Formulatrix\ThisReferenceTest\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

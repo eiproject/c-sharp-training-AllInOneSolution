@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csprojAssemblyReference.cache
+C:\Lab Formulatrix\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Lab Formulatrix\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Lab Formulatrix\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Lab Formulatrix\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Lab Formulatrix\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Lab Formulatrix\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Lab Formulatrix\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Lab Formulatrix\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Lab Formulatrix\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Lab Formulatrix\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
