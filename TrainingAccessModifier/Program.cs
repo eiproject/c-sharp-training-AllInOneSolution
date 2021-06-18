@@ -28,20 +28,33 @@ namespace TrainingAccessModifier
   {
     public Run()
     {
-      RunVertex V = new RunVertex(a: 1.1F, b: 0.2F, c: 1.5F);
+      Console.WriteLine("Enter a, b, and c: (Format: A B C)");
+      string consoleInput = Console.ReadLine();
+      string[] arrInput = consoleInput.Split(" ");
+      if (arrInput.Length == 3)
+      {
+        var arrInputFloat = Array.ConvertAll(arrInput, i => float.Parse(i));
+        RunVertex V = new RunVertex(a: arrInputFloat[0], b: arrInputFloat[1], c: arrInputFloat[2]);
 
-      RunSplitingSentences T = new RunSplitingSentences(
-        sentence: "Learning C# Language From Scratch");
+        RunSplitingSentences T = new RunSplitingSentences(
+          sentence: "Learning C# Language From Scratch");
+      }
+      else
+      {
+        Console.WriteLine("Input not match.");
+      }
     }
   }
   class Program
   {
     static void Main(string[] args)
     {
-      RunVertex V = new RunVertex(a: 1.1F, b: 0.2F, c: 1.5F);
+      /*RunVertex V = new RunVertex(a: 1.1F, b: 0.2F, c: 1.5F);
 
       RunSplitingSentences T = new RunSplitingSentences(
-        sentence: "Learning C# Language From Scratch");
+        sentence: "Learning C# Language From Scratch");*/
+
+      Run App = new Run();
     }
   }
 }
